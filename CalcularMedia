@@ -20,7 +20,7 @@ programa {
    escreva("\n")
 
    media = (nota1 + nota2 + nota3 + nota4) / 4
-   escreva("A media das notas ", nota1, " e ", nota2, " e ", nota3, " e ", nota4, " é : ", media)
+   escreva("A media das notas ", nota1, " e ", nota2, " e ", nota3, " e ", nota4, " Ã© : ", media)
    escreva("\n")
     
   }
